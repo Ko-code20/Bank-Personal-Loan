@@ -56,5 +56,3 @@ personal loan.
 - Customers with zero/low mortgage are more likely to take a loan.
 - Most customers are located in the **Los Angeles** and **San Francisco** areas.
 - Age, online-banking and credit-card usage showed weak or unclear effects.
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   
